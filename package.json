@@ -13,5 +13,8 @@
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0"
+  },
+  "devDependencies": {
+    "web3": "^1.7.1"
   }
 }
